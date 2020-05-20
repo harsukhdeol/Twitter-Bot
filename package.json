@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/harsukhdeol/Twitter-Bot#readme",
   "dependencies": {
-    "twit": "^2.2.11"
+    "twit": "^2.2.11",
+    "woeid": "^2.0.3"
   }
 }
